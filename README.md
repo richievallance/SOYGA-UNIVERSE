@@ -31,7 +31,7 @@ LICENSE              → CC BY-NC-ND 4.0
 > Click any section title below to open the corresponding chapter.
 > 
 ### Reading Order
-1. [Front Matter](SOYGA-UNIVERSE/Manuscript/Front_Matter.md)
+1. [Front Matter](Manuscript/Front_Matter.md)
 2. [Publication Statement](Manuscript/Publication_Statement.md)
 3. [Introduction](Manuscript/Introduction.md)
 4. [Chapter 1 – Rediscovering the Cipher](Manuscript/Chapter_1-Rediscovering_the_Cipher.md)
