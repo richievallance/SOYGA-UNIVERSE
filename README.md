@@ -42,7 +42,7 @@ LICENSE              → CC BY-NC-ND 4.0
 9. [Chapter 6 - Epilogue – The Remembering of Light](Manuscript/Epilogue-The_Remembering_of_Light.md)
 10. [Chapter 7 - Manuscript Methodology](Manuscript/Chapter_7-Manuscript_Methodology.md)
 11. [Chapter 8 - Harmonic Structures](Manuscript/Chapter_8-Harmonic_Structures.md)
-12. [Chapter 9 - Simulation Framework - USC Integration] (Manuscript/Chapter 9-Simulation Framework.md)
+12. [Chapter 9 - Simulation Framework](Manuscript/Chapter 9-Simulation Framework.md)
 13. [Chapter 10- Comparative Texts and Parallels](Manuscript/Chapter_10-Comparative_Texts_and_Parallels.md)
 14. [Chapter 11 - Reflections and Afterword](Manuscript/Chapter_11-Reflections_and_Afterword.md)
 15. [Chapter 12 - Appendices and Technical Data](Manuscript/Chapter_12-Appendices_and_Technical_Data.md)
@@ -95,9 +95,6 @@ Developed under Vallance Industries within the Da Valenca Codex Project.
 For academic correspondence or citation permissions, please credit the author as:
 
 > R. S. Vallance — Universal Cipher Edition, 2025.
-
-
-
 
 ---
 
