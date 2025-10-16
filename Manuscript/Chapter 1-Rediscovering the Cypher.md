@@ -150,8 +150,9 @@ and π-phase progression used to reconstruct the thirty-two-table lattice.
 Subsequent sections will translate these models into visual overlays and
 astronomical correlation charts.
 
+----
+[⬅️ Previous Chapter](Introduction.md) | [Next Chapter ➡️](Chapter_2-Mathematical_Foundations.md)
 ---
-[⬅️ Previous Chapter](01_Publication_Statement.md) | [Next Chapter ➡️](03_Chapter_1-Rediscovering_the_Cipher.md)
 ---
 
 **© 2025 Richard Steven Vallance. All Rights Reserved.**  
