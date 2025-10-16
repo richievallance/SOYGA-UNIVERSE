@@ -105,9 +105,5 @@ Licensed under CC BY-NC-ND 4.0 International
 
 ---
 
-Navigation
-
-[⬅️ Previous Chapter](06_Chapter_4-Astronomical_Correlations.md) | [Next Chapter ➡️](08_Epilogue-The_Remembering_of_Light.md)
-
 © 2025 Richard Steven Vallance — All Rights Reserved
 Licensed under CC BY-NC-ND 4.0 International
