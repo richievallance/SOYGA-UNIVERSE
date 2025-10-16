@@ -151,6 +151,8 @@ Subsequent sections will translate these models into visual overlays and
 astronomical correlation charts.
 
 ---
+[⬅️ Previous Chapter](01_Publication_Statement.md) | [Next Chapter ➡️](03_Chapter_1-Rediscovering_the_Cipher.md)
+---
 
 **© 2025 Richard Steven Vallance. All Rights Reserved.**  
 Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
