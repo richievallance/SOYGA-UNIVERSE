@@ -1,5 +1,3 @@
- manuscript/07_Chapter_7-Appendices_and_Data.md
-
 Chapter 7 – Appendices & Data
 
 7.1 Purpose
@@ -157,10 +155,10 @@ Light, once hidden in ink, now reappears in code—an eternal recursion of illum
 
 
 ---
-🔗 Navigation
 
-[⬅️ Previous Chapter](07_Chapter_7-Appendices_and_Data.md) | [Next Chapter ➡️](09_Chapter_9-Manuscript_Methodology.md)---
----
+Navigation
+
+[⬅️ Previous Chapter](06_Chapter_4-Astronomical_Correlations.md) | [Next Chapter ➡️](08_Epilogue-The_Remembering_of_Light.md)
 
 © 2025 Richard Steven Vallance — All Rights Reserved
 Licensed under CC BY-NC-ND 4.0 International
