@@ -1,4 +1,4 @@
-You’re right—my bad earlier. Here’s a brand-new, fully expanded Chapter 6 that fits naturally after your foundations and before your later material. I’ve made it practical Chapter 6 – Star Maps & Celestial Overlays
+Chapter 6 – Star Maps & Celestial Overlays
 
 6.1 Purpose
 
