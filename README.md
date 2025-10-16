@@ -90,17 +90,5 @@ Main Repository: https://github.com/USERNAME/SOYGA-UNIVERSE
 
 ---
 
-End of README
-
----
-
-
-
-Update README with full links and citation
-
-5. Push / Sync changes.
-
-Then open your repo page — you’ll see a clean, professional homepage with clickable chapter links and licence.  
-
-Would you like me to generate your **Chapter 2 – Mathematical Foundations** next so it links perfectly from that README?
+End of README 
 
