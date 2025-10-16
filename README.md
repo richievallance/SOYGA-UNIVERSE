@@ -22,6 +22,9 @@ SOYGA-UNIVERSE/ ├── README.md ├── LICENSE ├── manuscript/ │ 
 ## 📘 The Book of Soyga — Universal Cipher Edition  
 *A Project by Richard Steven Vallance (© 2025)*  
 
+## 📚 Contents
+> Click any section title below to open the corresponding chapter.
+> 
 ### Reading Order
 1. [Front Matter](manuscript/00_Front_Matter.md)
 2. [Publication Statement](manuscript/01_Publication_Statement.md)
@@ -40,8 +43,6 @@ SOYGA-UNIVERSE/ ├── README.md ├── LICENSE ├── manuscript/ │ 
 15. [Appendices and Technical Data](manuscript/14_Chapter_14-Appendices_and_Technical_Data.md)
 16. [Bibliography and Sources](manuscript/15_Chapter_15-Bibliography_and_Sources.md)
 17. [End Section — Simulation Road Map](manuscript/16_Chapter_16-End_Section-Roadmap.md)
-## 📚 Contents
-> Click any section title below to open the corresponding chapter.
 
 ---
 
