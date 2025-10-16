@@ -158,6 +158,8 @@ These observations re-cast *Soyga* as a proto-scientific document, a fusion of m
 music, and metaphor.  
 
 ---
+[⬅️ Previous Chapter](04_Chapter_2-Mathematical_Foundations.md) | [Next Chapter ➡️](06_Chapter_4-Astronomical_Correlations.md)
+---
 
 ## 3.11 Transition  
 
