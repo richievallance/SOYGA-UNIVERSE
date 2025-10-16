@@ -1,4 +1,4 @@
-Chapter 6 – Astronomical Correlations
+Manuscript/Chapter 6 – Astronomical Correlations
 
 6.1 Purpose
 
