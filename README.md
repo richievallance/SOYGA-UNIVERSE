@@ -30,26 +30,8 @@ LICENSE              → CC BY-NC-ND 4.0
 ## 📚 Contents
 > Click any section title below to open the corresponding chapter.
 > 
-### Reading Order
-1. [Front Matter](Manuscript/Front_Matter.md)
-2. [Publication Statement](Manuscript/Publication_Statement.md)
-3. [Introduction](Manuscript/Introduction.md)
-4. [Chapter 1 – Rediscovering the Cipher](Manuscript/Chapter_1-Rediscovering_the_Cipher.md)
-5. [Chapter 2 – Mathematical Foundations](Manuscript/Chapter_2-Mathematical_Foundations.md)
-6. [Chapter 3 – Table Structures](Manuscript/Chapter_3-Table_Structures.md)
-7. [Chapter 4 – Astronomical Correlations](Manuscript/Chapter_4-Astronomical_Correlations.md)
-8. [Chapter 5 – Appendices and Data](Manuscript/Chapter_5-Appendices_and_Data.md)
-9. [Chapter 6 - Epilogue – The Remembering of Light](Manuscript/Epilogue-The_Remembering_of_Light.md)
-10. [Chapter 7 - Manuscript Methodology](Manuscript/Chapter_7-Manuscript_Methodology.md)
-11. [Chapter 8 - Harmonic Structures](Manuscript/Chapter_8-Harmonic_Structures.md)
-12. [Chapter 9 - Simulation Framework](Manuscript/Chapter 9-Simulation Framework.md)
-13. [Chapter 10- Comparative Texts and Parallels](Manuscript/Chapter_10-Comparative_Texts_and_Parallels.md)
-14. [Chapter 11 - Reflections and Afterword](Manuscript/Chapter_11-Reflections_and_Afterword.md)
-15. [Chapter 12 - Appendices and Technical Data](Manuscript/Chapter_12-Appendices_and_Technical_Data.md)
-16. [Chapter 13 - Bibliography and Sources](Manuscript/Chapter_13-Bibliography_and_Sources.md)
-17. [Chapter 14 - End Section — Simulation Road Map](Manuscript/Chapter_14-End_Section-Roadmap.md)
-18. [Chapter 15 - Readme](Manuscript/Chapter 15-Readme.md)
-
+## 📖 Read the Manuscript
+To explore the full Universal Cipher Edition, begin with the [Table of Contents](TOC.md).
 ---
 
 ## 🧭 Version
