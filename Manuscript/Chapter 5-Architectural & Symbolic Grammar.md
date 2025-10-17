@@ -119,31 +119,11 @@ Its foundations are geometric; its walls, linguistic; its ceiling, harmonic.
 Through this design, the compiler turned language into a spatial cathedral where every ratio sings.
 
 
----
-
-© 2025 Richard Steven Vallance — All Rights Reserved
-Licensed under Creative Commons BY-NC-ND 4.0 International
-
-
----
-
 🔗 Navigation
 
 [⬅️ Previous Chapter](Chapter_4-Astronomical_Correlations.md) | [Next Chapter ➡️](Chapter_6-Star_Maps_and_Celestial_Overlays.md)
 
-
 ---
 
-✅ Now your sequence is:
-
-Ch 4 = Astronomical Correlations
-
-Ch 5 = Architectural & Symbolic Grammar (this one)
-
-Ch 6 = Star Maps and Celestial Overlays
-
-Ch 7 = Appendices & Data
-
-
-Would you like me to expand Chapter 7 slightly further so it focuses purely on empirical verification + digital datasets, keeping it distinct from 5?
-
+© 2025 Richard Steven Vallance — All Rights Reserved
+Licensed under Creative Commons BY-NC-ND 4.0 International
