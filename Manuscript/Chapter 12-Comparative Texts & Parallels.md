@@ -84,6 +84,9 @@ The Book of Soyga belongs to a family of visionary works that sought to unify sc
 
 
 ---
+[⬅️ Previous Chapter](11_Chapter_11-Simulation_Framework.md) | [Next Chapter ➡️](13_Chapter_13-Reflections_and_Afterword.md)
+
+---
 
 © 2025 Richard Steven Vallance — All Rights Reserved
 Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
