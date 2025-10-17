@@ -73,8 +73,11 @@ To complete this study is not to close a book but to open a field.  The harmony 
 
 The Universal Cipher Edition stands as both restoration and beginning.  It restores a lost work of mathematical mysticism to modern visibility and begins a new synthesis linking art, science, and spirit.  It invites readers not merely to interpret but to participate—to trace the golden ratio in the turning of planets, the rhythm of thought, and the structure of love.  For in every scale, from the smallest vibration to the largest galaxy, the same law prevails: harmony is the signature of existence.  The Book of Soyga, once hidden, now speaks again through the language of light.
 
+---
+[⬅️ Previous Chapter](12_Chapter_12-Comparative_Texts_and_Parallels.md) | [Next Chapter ➡️](14_Chapter_14-Appendices_and_Technical_Data.md)
 
 ---
+
 
 © 2025 Richard Steven Vallance — All Rights Reserved
 Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
