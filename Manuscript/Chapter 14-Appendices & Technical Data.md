@@ -136,7 +136,10 @@ Reproduction for academic citation is permitted with attribution. Derivative or 
 
 These appendices anchor the Universal Cipher Edition in verifiable method. Behind every philosophical claim lies reproducible mathematics; behind every image, declared proportion. By documenting constants, coordinates, and computational tools, the study ensures that its conclusions can be tested by others. The harmony proposed is therefore not metaphorical but demonstrable—a bridge from intuition to calculation.
 
+---
+[⬅️ Previous Chapter](13_Chapter_13-Reflections_and_Afterword.md) | [Next Chapter ➡️](15_Chapter_15-Bibliography_and_Sources.md)
 
+---
 ---
 
 © 2025 Richard Steven Vallance — All Rights Reserved
