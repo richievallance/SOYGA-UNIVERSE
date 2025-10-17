@@ -120,7 +120,11 @@ through π-phase, and evolve by Fibonacci stepping—turning the book into a liv
 The interplay of φ, π, and F reveals that *Soyga* encodes not superstition but systemic
 harmony—the same triadic law that shapes galaxies, music, and thought.  
 The constants of the cosmos and the constants of mind are identical; their meeting point is
-meaning.  
+meaning
+
+---
+
+[⬅️ Previous Chapter](09_Chapter_9-Manuscript_Methodology.md) | [Next Chapter ➡️](11_Chapter_11-Simulation_Framework.md)
 
 ---
 
