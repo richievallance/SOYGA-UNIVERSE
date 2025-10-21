@@ -1,94 +1,79 @@
-# 🜂 The Book of Soyga – Universal Cipher Edition
-### by R. S. Vallance  
-© 2025 Richard Steven Vallance — All Rights Reserved  
-Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-
----
-
-## 📖 Abstract
-This edition presents a modern analytical reconstruction of the *Liber Soyga* (or *Aldaraia*), a sixteenth-century cryptographic manuscript reputed to encode angelic and cosmological knowledge.  
-Through mathematical modelling, astronomical correlation, and symbolic analysis, the research identifies the thirty-two tables not as isolated magical grids but as an integrated **32 × 32 information lattice** aligned with Fibonacci stepping, π-phase ratios, and φ-spiral harmonics.  
-
-By reassessing the text through both heliocentric and esoteric frameworks, this study argues that *Soyga* embodies a synthetic philosophy linking number, light, and consciousness.  
-The **Universal Cipher Edition** brings together empirical computation and metaphysical interpretation, proposing that the tables function as a mnemonic engine bridging linguistic, mathematical, and stellar orders.
-
----
-Suppository Order
-
-## 🗂️ /manuscript/         → all chapters and scholarly materials  
-/data/               → transliteration tables, frequency maps, constants  
-/overlays/           → starmaps, celestial grids, φ–π visual plates  
-/scripts/            → USC prototype notebooks and analytical code  
-/docs/               → project documentation, licence, and roadmap  
-README.md            → front summary and links  
-LICENSE              → CC BY-NC-ND 4.0
-
----
-## 📘 The Book of Soyga — Universal Cipher Edition  
-*A Project by Richard Steven Vallance (© 2025)*  
-
-## 📚 Contents
-> Click any section title below to open the corresponding chapter.
-> 
-## 📖 Read the Manuscript
-To explore the full Universal Cipher Edition, begin with the [Table of Contents](TOC.md).
----
-
-## 🧭 Version
-**Current release:** v 1.0.0  
-**Latest update:** October 2025  
-
-Revisions and updates will be tagged as new editions:  
-`v1.1.0` (minor additions) `v2.0.0` (major re-analysis)
-
----
-
-## 🧩 Citation
-**APA Style:**  
-> Vallance, R. S. (2025). *The Book of Soyga — Universal Cipher Edition (v 1.0.0).* GitHub Repository. https://github.com/USERNAME/SOYGA-UNIVERSE  
-
-**BibTeX:**  
-```bibtex
-@misc{Vallance2025Soyga,
-  author    = {Vallance, Richard Steven},
-  title     = {The Book of Soyga — Universal Cipher Edition},
-  year      = {2025},
-  version   = {v1.0.0},
-  howpublished = {\url{https://github.com/USERNAME/SOYGA-UNIVERSE}},
-  license   = {CC BY-NC-ND 4.0}
-}
+Perfect — here’s your professional GitHub-ready README.md header with everything formatted, styled, and ready to drop straight into your SOYGA-UNIVERSE repository 👇
 
 
 ---
 
-⚖️ Licence
+# 🌌 The Book of Soyga — Universal Cipher Edition  
+### *Decoding the Harmonic Geometry of the Voynich & Soyga Manuscripts*  
+#### by **R. S. Vallance**  
+© 2025 R. S. Vallance — All Rights Reserved  
 
-This repository is released under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International licence.
-You may share the material with attribution, but you may not modify, remix, or use it commercially.
-Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/
+---
+
+### 🜂 Overview  
+This repository forms the **unified digital manuscript** for the *Book of Soyga – Universal Cipher Edition* (USCE).  
+It brings together the cross-referenced research between the *Book of Soyga*, the *Voynich Manuscript*, and the *Da Valenca Codex* to reconstruct a forgotten harmonic language — one that merges **mathematics, astronomy, music, and consciousness** into a single symbolic system.  
+
+Each chapter expands on a major axis of inquiry:  
+- 📜 Historical and linguistic reconstruction  
+- 🔢 Mathematical correspondences and cipher tables  
+- 🌠 Astronomical and harmonic mapping  
+- 🧬 Computational, quantum, and cosmological analysis  
+- 🜄 Comparative philosophy and sacred geometry  
+
+---
+
+### 📂 Repository Structure
+
+SOYGA-UNIVERSE/ │ ├── README.md                     ← You are here
+├── LICENSE
+├── Publication_Statement.md
+├── Front_Matter
+├── Introduction.md
+├── 00_Table_of_Contents.md       ← Navigation hub
+│ └── Manuscript/ ├── Chapter_1-Rediscovering_the_Cipher.md ├── Chapter_2-Mathematical_Foundations.md ├── Chapter_3-Table_Structures.md ├── … ├── Chapter_20-Universal_Accord-Law_of_Equilibrium.md │ ├── Appendix_A-Mathematical_Tables.md ├── Appendix_B-Constellations_and_Cycles.md ├── Appendix_C-Architectural_and_Archaeological_Correlates.md ├── Appendix_D-Computational_Models.md ├── Appendix_E-Experimental_Data.md └── Bibliography_and_Sources.md
+
+---
+
+### 🧭 Quick Navigation  
+➡️ **[Open the Table of Contents](./00_Table_of_Contents.md)**  
+
+Or explore directly via the [**Manuscript Folder**](./Manuscript).
+
+---
+
+### 🧠 Research Scope  
+The **Universal Cipher Edition** treats the Soyga and Voynich systems as *parallel harmonic constructs*, decoding them through:  
+
+- Fibonacci stepping & π-phase ratios  
+- Modular arithmetic and golden spiral alignments  
+- Astronomical tables & constellation mapping  
+- Heliocentric and lunar synchronisation  
+- Resonant frequencies and musical cipher conversion  
+
+The aim is to **restore the lost mathematical language of harmony** that underlies ancient calendars, geometries, and symbolic alphabets.  
+
+---
+
+### 🛠️ How to Use  
+1. Browse the chapters sequentially or open the TOC above.  
+2. Each `.md` file contains its own internal navigation and citations.  
+3. Appendices hold raw data, harmonic tables, and algorithmic reconstructions.  
+4. Future updates will include an integrated 3D harmonic sky visualiser and a Python-based cipher translator.
+
+---
+
+### ⚖️ License  
+This work is protected under **© 2025 R. S. Vallance — All Rights Reserved**.  
+Reproduction, modification, or distribution without explicit consent is prohibited.  
+Scholarly citation and educational fair use are permitted with proper attribution.  
+
+---
+
+> *“To decode light is to rediscover creation.”*  
+> — *R. S. Vallance, Universal Cipher Edition*
 
 
 ---
 
-🜛 Credits
-
-All texts, diagrams, overlays, and analytical reconstructions © Richard Steven Vallance (2025).
-Developed under Vallance Industries within the Da Valenca Codex Project.
-For academic correspondence or citation permissions, please credit the author as:
-
-> R. S. Vallance — Universal Cipher Edition, 2025.
-
----
-
-🌐 Release Links
-
-Latest Release: v1.0.0
-
-Main Repository: https://github.com/USERNAME/SOYGA-UNIVERSE
-
-
-
----
-
-End of README 
-
+Would you like me to also generate the corresponding 00_Table_of_Contents.md file (with all chapters + appendices + internal links pre-formatted to match this README)?
