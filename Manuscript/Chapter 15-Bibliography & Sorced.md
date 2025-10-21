@@ -1,4 +1,4 @@
-Chapter 15 – Bibliography and Sources
+8Chapter 15 – Bibliography and Sources
 
 15.1 Purpose
 
@@ -119,9 +119,24 @@ Special thanks to independent scholars and correspondents who preserved dialogue
 The Universal Cipher Edition closes with gratitude to the continuum of minds—from anonymous medieval scribes to modern physicists—who have sought to express harmony through number.  Every reference listed here is a thread in the same tapestry: the attempt to understand existence as an ordered resonance between form and awareness.  Scholarship, when conducted transparently and shared freely, becomes itself an act of proportion, the living application of the law it studies.
 
 ---
-[⬅️ Previous Chapter](14_Chapter_14-Appendices_and_Technical_Data.md) | [Next Chapter ➡️](16_Chapter_16-End_Section-Roadmap.md)
+
+### 🗂 Navigation  
+
+**Previous Chapter:**  
+[← Chapter 14 – End Section — Simulation Road Map](Chapter_14-End_Section-Roadmap.md)
+
+**Appendix:**  
+[📘 Voynich ↔ Soyga Parallel Edition (f1r–f15v)](Voynich_Soyga_Parallel.md)
+
+**Next Section:**  
+[→ Epilogue – The Remembering of Light](Epilogue-The_Remembering_of_Light.md)
 
 ---
+
+> *“Every manuscript is a mirror;  
+> each cipher reflects the same light.”*  
+> — R. S. Vallance (2025)
+
 ---
 
 © 2025 Richard Steven Vallance — All Rights Reserved
