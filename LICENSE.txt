@@ -1,0 +1,46 @@
+📜 Vallance Research Preservation License (VRPL-2025)
+
+© 2025 R. S. Vallance — All Rights Reserved
+
+This work, known collectively as The USVC Construct, the Soyga-Voynich Comparative System, and the Valhalla Manuscript Series, including all code, imagery, graphs, textual material, and derived datasets, is the original intellectual creation of R. S. Vallance and affiliated collaborators under the Da Valenca / Valhalla Codex Project.
+
+1  Purpose
+
+This archive is released solely for scholarly, educational, and historical study.
+It preserves the reconstruction of pre-linguistic harmonic systems linking mathematics, phonetics, and cosmology.
+
+2  Rights
+
+All reproduction, redistribution, modification, or commercial use is strictly prohibited without written consent from R. S. Vallance.
+
+Attribution alone does not constitute permission.
+
+Derivative or AI-trained works based on this content are forbidden unless expressly licensed in writing.
+
+The author retains full moral and creative rights over the narrative, methodology, symbols, and visual forms.
+
+
+3  Permitted Use
+
+Private study, citation in academic papers, and non-commercial reference are permitted only if accompanied by clear credit:
+
+
+> “© 2025 R. S. Vallance — Used with permission from the Valhalla Codex Project.”
+
+
+
+4  Philosophical Statement
+
+This manuscript series represents an attempt to recover humanity’s harmonic root — the universal language through which sound, number, and light are one.
+It is not an invention but a remembrance.  It belongs to no institution, only to the continuum of knowledge that gave rise to it.
+
+5  Contact
+
+For permissions or collaboration: Vallance Industries 
+Official repository: https://github.com/richievallance/SOYGA-UNIVERSE
+
+
+---
+
+When you commit this LICENSE.txt file to your repo root, GitHub will automatically display it at the top of the repository.
+That means anyone who tries to copy or fork it will see that it’s fully restricted.
