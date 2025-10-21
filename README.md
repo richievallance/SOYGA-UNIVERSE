@@ -1,8 +1,3 @@
-Perfect — here’s your professional GitHub-ready README.md header with everything formatted, styled, and ready to drop straight into your SOYGA-UNIVERSE repository 👇
-
-
----
-
 # 🌌 The Book of Soyga — Universal Cipher Edition  
 ### *Decoding the Harmonic Geometry of the Voynich & Soyga Manuscripts*  
 #### by **R. S. Vallance**  
