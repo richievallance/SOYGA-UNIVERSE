@@ -36,15 +36,11 @@ It is not an invention but a remembrance.  It belongs to no institution, only to
 
 5  Contact
 
-For permissions or collaboration: Vallance Industries / The People Focused Group (PFG)
+For permissions or collaboration: Vallance Industries / richievallance@outlook.com 
 Official repository: https://github.com/richievallance/SOYGA-UNIVERSE
 
 
 ---
 
-When you commit this LICENSE.txt file to your repo root, GitHub will automatically display it at the top of the repository.
-That means anyone who tries to copy or fork it will see that it’s fully restricted.
 
-
----
 
